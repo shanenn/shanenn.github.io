@@ -6,6 +6,7 @@
   gpa: 3.98
   honors: Magna Cum Laude, School of Social Science Honors
   summary: Coursework in statistics, programming in python, computer science, and psychology/decision making
+  current: False
 
 - major: A.A. Social and Behavioral Science
   school: Irvine Valley College
@@ -15,3 +16,4 @@
   gpa: 3.68
   honors: Cum Laude
   summary: Coursework in statistics, social science, and programming
+  current: False
