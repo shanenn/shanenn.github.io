@@ -1,7 +1,8 @@
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- title: Education
+- type: education
+  title: Education
   url: /education/
 
 - type: work
