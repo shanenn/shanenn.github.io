@@ -1,11 +1,11 @@
 # Setup
-title: A Personal Website
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Shane Nguyen
+description: Resume/Portfolio
 url: https://shanenn.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /background.jpg
 
 # Gems
 plugins:
@@ -30,7 +30,7 @@ exclude:
 # Optimize Jekyl SEO Tag
 logo: logo.png
 social:
-  name: Shane Nguyne
+  name: Shane Nguyen
   links:
     - https://www.linkedin.com/in/shane--nguyen/
     - https://github.com/shanenn/
