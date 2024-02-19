@@ -1,0 +1,21 @@
+- name: Honors Research Projects
+  start: 2022
+  end: 2023
+  current: False
+  extra: 
+  responsibilities: [Investigated human and AI teaming in complex decision making tasks,
+  "Utilized a combination of machine learning, behavioral, and EEG recordings to model individual decision making models",
+  "R&D project from ground up, collected human subject data, analyzed and formed conclusions based on data analysis", 
+  Presented findings to peers and fellow academics from different areas of study]
+  link: https://github.com/shanenn/Income_Experiment
+
+- name: Data Analytics Bootcamp
+  start: June 2023
+  end: December 2023
+  current: False
+  extra: Awarded by University of California Division of Continuing Education
+  responsibilities: [Intensive 24 week course covering practical and technical skills related to data analytics/science,
+  "Coursework in statistics, data cleaning, analysis, visualization, and presentation.",
+  Produced data analytic projects individually and collaboratively,
+  "Skill highlights: python, SQL, tableau, statistics, API, supervised and unsupervised machine learning, and pyspark"]
+  link: https://github.com/shanenn/UCIbootcamp
