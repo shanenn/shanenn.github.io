@@ -23,6 +23,7 @@
 }
 
 .masthead-title {
+  color: #1d1d1d;
   padding: 0;
   margin: 0;
   font-size: 2rem;
@@ -80,6 +81,7 @@
 
 .social-icon {
   padding: var(--spacer);
+  color: rgb(219, 219, 219);
   &:hover,
   &:focus {
     color: var(--link-hover-color);
