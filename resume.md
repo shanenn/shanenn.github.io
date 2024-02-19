@@ -6,9 +6,9 @@ title: Resume
 
 
 <body>
-<object data="https://docs.google.com/document/d/1icPww1-dP_547aUFJ7BQMaEslzDmfaPvyqN-pEWb19M/edit?usp=sharing" width="800" height="2100" type="application/pdf">
+<object data="https://github.com/shanenn/shanenn.github.io/blob/main/_downloadables/Resume02162024.pdf" width="800" height="2100" type="application/pdf">
 </object>
-<a href="https://docs.google.com/document/d/1icPww1-dP_547aUFJ7BQMaEslzDmfaPvyqN-pEWb19M/edit?usp=sharing" download="ShaneNguyenResume.pdf" target = "_blank">Download the pdf</a>
+<a href="https://github.com/shanenn/shanenn.github.io/blob/main/_downloadables/Resume02162024.pdf" download="ShaneNguyenResume.pdf" target = "_blank">Download the pdf</a>
 <object data="/_downloadables/Resume02162024.pdf" width="800" height="2100" type="application/pdf">
 </object>
 <a href="/_downloadables/Resume02162024.pdf" download="ShaneNguyenResume.pdf" target = "_blank">Download the pdf</a>
