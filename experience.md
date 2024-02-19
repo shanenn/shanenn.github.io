@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /experience/
+title: Work Experience
+---
+
+## Researcher | DEVCOM Army Research Laboratory
+#### September 2022 - Current
+- Balanced work and deadlines of several research projects at once
+- Researched and brainstormed experimental approaches to larger research goals/missions with various affiliated universities
+- Automated the data cleaning and analysis process via python and matlab
+- Collaborated with experts in a variety of  fields to employ different approaches to data analysis and interpretation.
+- Presented technical work to interested parties with little to no prior understanding.
