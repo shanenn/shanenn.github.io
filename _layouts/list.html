@@ -8,17 +8,17 @@ layout: default
   {% for post in paginator.schools %}
   <section class="entry">
     <h2 class="entry-title">
-      <p style="text-align:left;">
+      <!-- <p style="text-align:left;">
         {{ post.title }}
         <span style="float:right;">{{ post.title }}</span>
-        </p>
-      <!-- <a>
+        </p> -->
+      <a>
         {{ post.title }}
-      </a> -->
+      </a>
     </h2>
 
-    <div class="entry-meta">
-      <a>{{ post.gpa | date_to_string }}</a>
+    <!-- <div class="entry-meta">
+      <a>{{ post.gpa }}</a>
       {%- if jekyll.environment == "production" and site.disqus -%}
         <span> • </span>
       {%- endif -%}
@@ -29,7 +29,7 @@ layout: default
   {% endfor %}
   {%- if jekyll.environment == "production" and site.disqus -%}
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
-  {%- endif -%}
+  {%- endif -%} -->
 </div>
 
 <!-- <div class="pagination">
