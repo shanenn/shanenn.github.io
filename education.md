@@ -22,18 +22,13 @@ title: Education
         {% endif %}
         </p>
     </h2>
-
-    <!-- <div class="post-meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-      {%- if jekyll.environment == "production" and site.disqus -%}
-        <span> • </span>
-        <a class="comment-count" href="{{ post.url | relative_url }}#disqus_thread">
-          <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
-        </a>
-      {%- endif -%}
-    </div> -->
-
-    <p>{{ post.excerpt | strip_html }}</p>
+    <h3 class = "post-subheading">
+    <a>
+        {{ post.gpa }}
+    </a>
+    </h3>
+    <p>{{ post.honors | strip_html }}</p>
+    <p>{{ post.summary | strip_html }}</p>
   </section>
   {% endfor %}
   <!-- {%- if jekyll.environment == "production" and site.disqus -%}

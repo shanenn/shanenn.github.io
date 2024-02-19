@@ -1,6 +1,17 @@
-- layout: page
-  major: B.S. Cognitive Science
+- major: B.S. Cognitive Science
   school: University of California Irvine
+  location: Irvine, CA
   start: Fall 2020
   end: Winter 2023
   gpa: 3.98
+  honors: Magna Cum Laude, School of Social Science Honors
+  summary: Coursework in statistics, programming in python, computer science, and psychology/decision making
+
+- major: A.A. Social and Behavioral Science
+  school: Irvine Valley College
+  location: Irvine, CA
+  start: Fall 2016
+  end: Winter 2020
+  gpa: 3.68
+  honors: Cum Laude
+  summary: Coursework in statistics, social science, and programming
