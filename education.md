@@ -4,7 +4,7 @@ permalink: /education/
 title: Education
 ---
 
-{% include home-header.html %}
+<!-- {% include home-header.html %} -->
 
 <div class="posts">
   {% for post in site.data.schools %}
@@ -16,9 +16,9 @@ title: Education
     <p style="text-align:left;">
         {{ post.major }} | {{ post.school}}
         {% if post.end ISEMPTY }
-        <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
-        {% else %}
         <span style="float:right;">{{ post.start }}</span>
+        {% else %}
+        <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
         {% endif %}
         </p>
     </h2>
