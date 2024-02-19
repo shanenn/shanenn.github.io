@@ -21,7 +21,7 @@ title: Work Experience
     </h2>
     <h3 class = "post-subheading">
     <a>
-        GPA: {{ post.city }}
+        Location: {{ post.city }}
     </a>
     </h3>
     <ul>
