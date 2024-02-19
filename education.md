@@ -17,7 +17,7 @@ title: Education
         {{ post.major }} | {{ post.school}}
         {% if post.end}
         <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
-        {else}
+        {% else %}
         <span style="float:right;">{{ post.start }}</span>
         {% endif %}
         </p>
