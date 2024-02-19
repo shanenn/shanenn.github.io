@@ -15,9 +15,6 @@ title: Education
       </a> -->
     <p style="text-align:left;">
         {{ post.major }} | {{ post.school}}
-        {%- if post.end}
-        <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
-        {%- endif -%}
         {% if post.end}
         <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
         {else}
