@@ -1,6 +1,22 @@
 #- type: categories
 #  title: Categories
 #  url: /categories/
+- type: education
+  title: Education
+  url: /education/
+
+- type: work
+  title: Work Experience
+  url: /work/
+
+- type: projects
+  title: Projects/Supplemental
+  url: /projects/
+
 - type: skills
   title: Skills
   url: /skills/
+
+- type: resume
+  title: Resume
+  url: /resume/

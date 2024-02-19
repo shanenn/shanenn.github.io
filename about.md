@@ -3,5 +3,5 @@ layout: page
 title: About
 ---
 <!-- Side bar information, summary -->
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**Summary** Integrous and driven researcher with a passion for making sense of difficult data. Enthusiastic about utilizing skills/knowledge in collaboration, analysis, python scripting, and human decision making to accelerate the success of my team in the traversal of ambiguous problem spaces via data driven solutions.
 
