@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /experience/
+permalink: /work/
 title: Work Experience
 ---
 
