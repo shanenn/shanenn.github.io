@@ -25,7 +25,7 @@ title: Work Experience
         </a>
     </h3>
     <ul>
-    {% for r in post.responsibilities}
+    {% for r in post.responsibilities %}
         <li> {{r | strip_html}} </li>
     {% endfor %}
     </ul>
