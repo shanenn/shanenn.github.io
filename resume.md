@@ -5,11 +5,14 @@ title: Resume
 ---
 
 
-<body>
-<object data="https://github.com/shanenn/shanenn.github.io/blob/main/_downloadables/SiteResume.pdf" width="800" height="2100" type="application/pdf">
-</object>
+<div>
+ <object data="https://github.com/shanenn/shanenn.github.io/blob/main/_downloadables/SiteResume.pdf" type="application/pdf" width="300" height="200">
+   <embed src="https://github.com/shanenn/shanenn.github.io/blob/main/_downloadables/SiteResume.pdf" type="application/pdf">
+ </object>
+</div>
 <a href="https://github.com/shanenn/shanenn.github.io/blob/main/_downloadables/SiteResume.pdf" download="ShaneNguyenResume.pdf" target = "_blank">Download the pdf</a>
-<!-- <object data="/_downloadables/SiteResume.pdf" width="800" height="2100" type="application/pdf">
-</object>
-<a href="/_downloadables/SiteResume.pdf" download="ShaneNguyenResume.pdf" target = "_blank">Download the pdf</a>
-</body> -->
+<div>
+ <object data="/_downloadables/SiteResume.pdf" type="application/pdf" width="300" height="200">
+   <embed src="/_downloadables/SiteResume.pdf" type="application/pdf">
+ </object>
+</div>
