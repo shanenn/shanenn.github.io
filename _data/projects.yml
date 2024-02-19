@@ -1,8 +1,10 @@
-- name: Honors Research Projects
+- name: Honors Research Project
   start: 2022
   end: 2023
   current: False
-  extra: Human and Machine Learning in Difficult Decision Making
+  extra: 
+    display: Human and Machine Learning in Difficult Decision Making
+    link: https://github.com/shanenn/Income_Experiment/blob/main/HonorsThesis.pdf
   info: [Investigated human and AI teaming in complex decision making tasks,
   "Utilized a combination of machine learning, behavioral, and EEG recordings to model individual decision making models",
   "R&D project from ground up, collected human subject data, analyzed and formed conclusions based on data analysis", 
@@ -13,7 +15,9 @@
   start: June 2023
   end: December 2023
   current: False
-  extra: Awarded by University of California Division of Continuing Education
+  extra: 
+    display: Awarded by University of California Division of Continuing Education
+    link: https://www.credly.com/users/shane-nguyen.201abfb5
   info: [Intensive 24 week course covering practical and technical skills related to data analytics/science,
   "Coursework in statistics, data cleaning, analysis, visualization, and presentation.",
   Produced data analytic projects individually and collaboratively,

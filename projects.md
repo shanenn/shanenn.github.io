@@ -18,9 +18,7 @@ title: Projects/Supplemental
         </p>
     </h2>
     <h3 class = "post-subheading">
-        <a>
-            {{ post.extra }}
-        </a>
+    <a href= "{{ post.extra.link }}">{{post.extra.display}}</a>
     </h3>
     <ul>
     {% for r in post.info %}

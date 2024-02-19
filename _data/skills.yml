@@ -1,0 +1,8 @@
+- category: Programming
+  content: [Python, Matlab, Javascript, SQL]
+
+- category: Design/Visualization
+  content: [HTML, Tableau, Excel, VBA]
+
+- category: Version Control
+  content: [Git]
