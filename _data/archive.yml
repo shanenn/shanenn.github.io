@@ -1,9 +1,9 @@
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: education
-  title: Education
-  url: /education/
+# - type: education
+#   title: Education
+#   url: /education/
 
 - type: work
   title: Work Experience
