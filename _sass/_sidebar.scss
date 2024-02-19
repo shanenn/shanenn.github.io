@@ -36,11 +36,12 @@
 
 .masthead-tagline {
   background-color: LightGray;
+  color: #1d1d1d;
   padding: 3px;
   margin: 0;
   font-size: 1.25rem;
   font-weight: 400;
-  opacity: .7;
+  // opacity: .7;
 }
 
 .navigation-list {
@@ -57,7 +58,8 @@
 .navigation-item a {
   // background: transparent;
   background-color: LightGray;
-  color: inherit;
+  // color: inherit;
+  color: #1d1d1d;
   letter-spacing: 0.05em;
   font-size: 90%;
   border-bottom: 2px solid;
