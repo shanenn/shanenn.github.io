@@ -1,5 +1,5 @@
 ---
-layout: edu
+layout: home
 permalink: /education/
 title: Education
 ---
