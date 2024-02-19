@@ -17,6 +17,6 @@
   title: Skills
   url: /skills/
 
-- type: resume
-  title: Resume
-  url: /resume/
+# - type: resume
+#   title: Resume
+#   url: /resume/
