@@ -1,20 +1,25 @@
 ---
 layout: default
+permalink: /education/
 title: Education
 ---
 
 {% include home-header.html %}
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.data.schools %}
   <section class="post-entry">
     <h2 class="post-title">
-      <a href="{{ post.url | relative_url }}">
+      <!-- <a>
         {{ post.title }}
-      </a>
+      </a> -->
+    <p style="text-align:left;">
+        {{ post.title }}
+        <span style="float:right;">{{ post.title }}</span>
+        </p>
     </h2>
 
-    <div class="post-meta">
+    <!-- <div class="post-meta">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
       {%- if jekyll.environment == "production" and site.disqus -%}
         <span> • </span>
@@ -22,17 +27,17 @@ title: Education
           <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
         </a>
       {%- endif -%}
-    </div>
+    </div> -->
 
     <p>{{ post.excerpt | strip_html }}</p>
   </section>
   {% endfor %}
-  {%- if jekyll.environment == "production" and site.disqus -%}
+  <!-- {%- if jekyll.environment == "production" and site.disqus -%}
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
-  {%- endif -%}
+  {%- endif -%} -->
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
   {% else %}
@@ -43,4 +48,4 @@ title: Education
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
