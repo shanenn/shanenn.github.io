@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /education/
 title: Education
 ---
@@ -14,8 +14,15 @@ title: Education
         {{ post.title }}
       </a> -->
     <p style="text-align:left;">
-        {{ post.title }}
-        <span style="float:right;">{{ post.title }}</span>
+        {{ post.major }} | {{ post.school}}
+        {%- if post.end}
+        <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
+        {%- endif -%}
+        {% if post.end}
+        <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
+        {else}
+        <span style="float:right;">{{ post.start }}</span>
+        {% endif %}
         </p>
     </h2>
 
