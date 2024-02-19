@@ -4,10 +4,32 @@ permalink: /work/
 title: Work Experience
 ---
 
-## Researcher | DEVCOM Army Research Laboratory
-#### September 2022 - Current
-- Balanced work and deadlines of several research projects at once
-- Researched and brainstormed experimental approaches to larger research goals/missions with various affiliated universities
-- Automated the data cleaning and analysis process via python and matlab
-- Collaborated with experts in a variety of  fields to employ different approaches to data analysis and interpretation.
-- Presented technical work to interested parties with little to no prior understanding.
+
+
+<div class="posts">
+  {% for post in site.data.work %}
+  <section class="post-entry">
+    <h2 class="post-title">
+    <p style="text-align:left;">
+        {{ post.occupation }} | {{ post.company}}
+        {% if post.end ISEMPTY }
+        <span style="float:right;">{{ post.start }} - Current</span>
+        {% else %}
+        <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
+        {% endif %}
+        </p>
+    </h2>
+    <h3 class = "post-subheading">
+    <a>
+        GPA: {{ post.city }}
+    </a>
+    </h3>
+    <ul>
+    {% for r in post.responsibilities}
+    <li> {r | strip_html} </li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+
+</div>
