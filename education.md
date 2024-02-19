@@ -24,11 +24,13 @@ title: Education
     </h2>
     <h3 class = "post-subheading">
     <a>
-        {{ post.gpa }}
+        GPA: {{ post.gpa }}
     </a>
     </h3>
-    <p>{{ post.honors | strip_html }}</p>
-    <p>{{ post.summary | strip_html }}</p>
+    <ul>
+    <li>{{ post.honors | strip_html }}</li>
+    <li>{{ post.summary | strip_html }}</li>
+    </ul>
   </section>
   {% endfor %}
   <!-- {%- if jekyll.environment == "production" and site.disqus -%}
