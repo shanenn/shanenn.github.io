@@ -27,8 +27,7 @@ title: Projects/Supplemental
         <li> {{r | strip_html}} </li>
     {% endfor %}
     </ul>
-    link = 
-      <a href= "{{ post.link }}"download="ShaneNguyenResume.pdf">GitHub Link</a>
+      <a href= "{{ post.link }}">GitHub Link</a>
   </section>
   {% endfor %}
 
