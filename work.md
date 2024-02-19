@@ -20,13 +20,13 @@ title: Work Experience
         </p>
     </h2>
     <h3 class = "post-subheading">
-    <a>
-        Location: {{ post.city }}
-    </a>
+        <a>
+            Location: {{ post.city }}
+        </a>
     </h3>
     <ul>
     {% for r in post.responsibilities}
-    <li> {r | strip_html} </li>
+        <li> {{r | strip_html}} </li>
     {% endfor %}
     </ul>
   </section>
