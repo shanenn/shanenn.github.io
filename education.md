@@ -11,7 +11,7 @@ title: Education
     <h2 class="post-title">
     <p style="text-align:left;">
         {{ post.major }} | {{ post.school}}
-        {% if post.end ISEMPTY }
+        {% if post.end ISEMPTY %}
         <span style="float:right;">{{ post.start }}</span>
         {% else %}
         <span style="float:right;">{{ post.start }} - {{ post.end }}</span>

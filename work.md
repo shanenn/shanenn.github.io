@@ -11,8 +11,8 @@ title: Work Experience
   <section class="post-entry">
     <h2 class="post-title">
     <p style="text-align:left;">
-        {{ post.occupation }} | {{ post.company}}
-        {% if post.end ISEMPTY }
+        {{ post.occupation }} | {{ post.company }}
+        {% if post.end ISEMPTY %}
         <span style="float:right;">{{ post.start }} - Current</span>
         {% else %}
         <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
