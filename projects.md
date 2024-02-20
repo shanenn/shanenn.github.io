@@ -18,7 +18,7 @@ title: Projects/Supplemental
         </p>
     </h2>
     <h3 class = "post-subheading">
-    <a href= "Link: {{ post.extra.link }}" target = "_blank">{{post.extra.display}}</a>
+    <a href= "{{ post.extra.link }}" target = "_blank">Link: {{post.extra.display}}</a>
     </h3>
     <ul>
     {% for r in post.info %}
