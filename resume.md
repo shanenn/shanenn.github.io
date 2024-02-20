@@ -6,7 +6,7 @@ title: Resume
 
 
 <div>
- <object data="https://drive.google.com/file/d/1oepxKA87XeFhgr1oqteeluqwo0NCdejM/preview" type="application/pdf" width="100%" height="100%">
+ <object data="https://drive.google.com/file/d/1oepxKA87XeFhgr1oqteeluqwo0NCdejM/preview" type="application/pdf" width="100%" height="500">
    <embed src="https://drive.google.com/file/d/1oepxKA87XeFhgr1oqteeluqwo0NCdejM/preview" type="application/pdf">
  </object>
 </div>
