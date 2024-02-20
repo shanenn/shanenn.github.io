@@ -10,4 +10,4 @@ title: Resume
    <embed src="https://drive.google.com/file/d/1oepxKA87XeFhgr1oqteeluqwo0NCdejM/preview" type="application/pdf">
  </object>
 </div>
-<a href="https://drive.google.com/file/d/1oepxKA87XeFhgr1oqteeluqwo0NCdejM/preview" download="ShaneNguyenResume.pdf" target = "_blank">Download the pdf</a>
+<a href="https://drive.google.com/file/d/1oepxKA87XeFhgr1oqteeluqwo0NCdejM/preview" download="ShaneNguyenResume.pdf">Download the pdf</a>
