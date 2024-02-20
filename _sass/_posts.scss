@@ -8,6 +8,13 @@
   margin-bottom: var(--spacer-3);
 }
 
+.post-welcome {
+  text-align: center;
+  border-radius: 16px;
+  font-size: 32px;
+  width: 500;
+}
+
 .page,
 .post {
   font-family: var(--text-font);
