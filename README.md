@@ -3,7 +3,7 @@
 ## Contents
 Files for the operation of [shanenn](https://github.com/shanenn) personal site.
 
-Uses jekyll site generator to organize and style website.
+Uses [jekyll](https://jekyllrb.com/) site generator to organize and style website.
 
 Contains pages indvidually for **Skills**, **Education**, **Experience**, and **General Info**.
 
