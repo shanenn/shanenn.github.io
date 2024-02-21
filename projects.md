@@ -29,9 +29,9 @@ title: Projects/Supplemental
         <li> {{r | strip_html}} </li>
     {% endfor %}
     </ul>
-    {% if post.image% }
+    {% if post.image %}
     <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" class="img-responsive" width="33%" style="float: right" />
-    {% end if %}
+    {% endif %}
       <a href= "{{ post.link }}" target = "_blank">GitHub Link</a>
   </section>
   {% endfor %}
