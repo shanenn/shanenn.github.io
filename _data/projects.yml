@@ -23,3 +23,31 @@
   Produced data analytic projects individually and collaboratively,
   "Skill highlights: python, SQL, tableau, statistics, API, supervised and unsupervised machine learning, and pyspark"]
   link: https://github.com/shanenn/UCIbootcamp
+
+- name: Data Analyst Job Market Visualization
+  start: November 2023
+  end: November 2023
+  current: False
+  extra: 
+    display: Visit the site!
+    link: https://shanenn.github.io/UCI_DS_Project_3
+  info: [Interactable site visualizing the data analyst job market using various online data sources with thousands of entries,
+  "Primary role:
+    - Develop web scraping script to build databases for use for SQL
+    - Develop javascript code to compute visualizations and interactions
+    - Find datasets or sites to be scraped or used
+    - Develop data to site pipeline"]
+  link: https://github.com/shanenn/UCI_DS_Project_3
+
+- name: Bacteria Visualization
+  start: September 2023
+  end: September 2023
+  current: False
+  extra: 
+    display: Visit the dashboard!
+    link: https://shanenn.github.io/belly-button-challenge
+  info: [Using dataset of different subjects to visualize different metrics,
+  Updates according to various metrics via a drop down menu,
+  Uses js and json interaction and diplayed via python]
+  link: https://github.com/shanenn/belly-button-challenge
+
