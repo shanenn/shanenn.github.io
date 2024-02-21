@@ -2,10 +2,10 @@
 title: Shane Nguyen
 description: Researcher at DEVCOM Army Research Laboratory
 url: https://shanenn.github.io
-avatar: /avatar.jpg
+avatar: /_images/avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /background.jpg
+cover_image: /_images/background.jpg
 
 # Gems
 plugins:
