@@ -10,6 +10,7 @@
   "R&D project from ground up, collected human subject data, analyzed and formed conclusions based on data analysis", 
   Presented findings to peers and fellow academics from different areas of study]
   link: https://github.com/shanenn/Income_Experiment
+  image: PDPlot.png
 
 - name: Data Analytics Bootcamp
   start: June 2023
@@ -37,6 +38,7 @@
   Found datasets or sites to be scraped or used,
   Developed data to site pipeline]
   link: https://github.com/shanenn/UCI_DS_Project_3
+  image: JobMap.png
 
 - name: Bacteria Visualization
   start: September 2023
@@ -49,4 +51,5 @@
   Updates according to various metrics via a drop down menu,
   Uses js and json interaction and diplayed via python]
   link: https://github.com/shanenn/belly-button-challenge
+  image: BacteriaBubbles.png
 

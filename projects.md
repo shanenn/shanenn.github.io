@@ -29,6 +29,7 @@ title: Projects/Supplemental
         <li> {{r | strip_html}} </li>
     {% endfor %}
     </ul>
+    <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" class="img-responsive" width="33%" style="float: left" />
       <a href= "{{ post.link }}" target = "_blank">GitHub Link</a>
   </section>
   {% endfor %}
