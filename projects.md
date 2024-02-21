@@ -13,7 +13,11 @@ title: Projects/Supplemental
         {% if post.current %}
         <span style="float:right;">{{ post.start }} - Ongoing</span>
         {% else %}
+        {% if post.start == post.end %}
+        <span style="float:right;">{{ post.start }}</span>
+        {% else %}
         <span style="float:right;">{{ post.start }} - {{ post.end }}</span>
+        {% endif %}
         {% endif %}
         </p>
     </h2>
