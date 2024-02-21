@@ -32,10 +32,10 @@
     display: Visit the site!
     link: https://shanenn.github.io/UCI_DS_Project_3
   info: [Interactable site visualizing the data analyst job market using various online data sources with thousands of entries,
-  "Primary role:
-    - Develop web scraping script to build databases for use for SQL
-    - Develop javascript code to compute visualizations and interactions
-    - Find datasets or sites to be scraped or used
+  "Primary role: <br>
+    - Develop web scraping script to build databases for use for SQL<br>
+    - Develop javascript code to compute visualizations and interactions<br>
+    - Find datasets or sites to be scraped or used<br>
     - Develop data to site pipeline"]
   link: https://github.com/shanenn/UCI_DS_Project_3
 
