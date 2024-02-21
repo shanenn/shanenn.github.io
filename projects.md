@@ -30,7 +30,7 @@ title: Projects/Supplemental
     {% endfor %}
     </ul>
     {% if post.image %}
-    <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" class="img-responsive" width="33%" style="float: right" />
+    <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}" class="img-responsive" width="50%" />
     {% endif %}
       <a href= "{{ post.link }}" target = "_blank">GitHub Link</a>
   </section>
