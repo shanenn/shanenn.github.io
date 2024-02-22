@@ -28,7 +28,7 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-logo: logo.png
+logo: /images/logo.png
 social:
   name: Shane Nguyen
   links:
